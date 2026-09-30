@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Hakgyoansim Jayeon R";
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimJayeonR/Hakgyoansim_JayeonR.woff2") format("woff2"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimJayeonR/Hakgyoansim_JayeonR.woff") format("woff"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimJayeonR/Hakgyoansim_JayeonR.otf") format("opentype"),
+      url("https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimJayeonR/Hakgyoansim_JayeonR.ttf") format("truetype");
+}
